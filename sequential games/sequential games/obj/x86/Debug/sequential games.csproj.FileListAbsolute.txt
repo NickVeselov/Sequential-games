@@ -1,0 +1,63 @@
+C:\Users\Nick\AppData\Local\Temporary Projects\sequential games\obj\x86\Debug\sequential_games.Properties.Resources.resources
+C:\Users\Nick\AppData\Local\Temporary Projects\sequential games\obj\x86\Debug\sequential_games.Tree.resources
+C:\Users\Nick\AppData\Local\Temporary Projects\sequential games\obj\x86\Debug\sequential games.csproj.GenerateResource.Cache
+C:\Users\Nick\AppData\Local\Temporary Projects\sequential games\bin\Debug\sequential games.exe
+C:\Users\Nick\AppData\Local\Temporary Projects\sequential games\bin\Debug\sequential games.pdb
+C:\Users\Nick\AppData\Local\Temporary Projects\sequential games\obj\x86\Debug\sequential games.exe
+C:\Users\Nick\AppData\Local\Temporary Projects\sequential games\obj\x86\Debug\sequential games.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games\sequential games\obj\x86\Debug\sequential games.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games\sequential games\obj\x86\Debug\sequential games.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games\sequential games\obj\x86\Debug\sequential_games.Properties.Resources.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games\sequential games\obj\x86\Debug\sequential_games.Tree.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games\sequential games\obj\x86\Debug\sequential games.csproj.GenerateResource.Cache
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games\sequential games\bin\Debug\sequential games.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games\sequential games\bin\Debug\sequential games.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games\sequential games\obj\x86\Debug\sequential games.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games\sequential games\obj\x86\Debug\sequential_games.Tree_element_menu.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games\sequential games\obj\x86\Debug\sequential_games.NewButtonDialogForm.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games\sequential games\obj\x86\Debug\sequential_games.NewTreeWindow.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games\sequential games\obj\x86\Debug\sequential_games.FindPositionForm.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games\sequential games\obj\x86\Debug\sequential_games.GamepositionDataInput.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games\sequential games\obj\x86\Debug\sequential_games.Settings_TreeElement.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\sequential games.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\sequential games.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\bin\Debug\sequential games.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\bin\Debug\sequential games.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\sequential games.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\sequential games.csproj.GenerateResource.Cache
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.Alternatives.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.NewButtonDialogForm.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.NewTreeForm.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.Properties.Resources.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.Settings.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.Tree.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.FunctionEditor.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.ParametersSettingsForm.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.BimatrixGamesForm.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.ExtensiveFormGame.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.PositionInformation_Form.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.ParametersValuesForm.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.ParametersWeightsForm.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.DebugForm.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.Report_Form.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\bin\Debug\sequential games.exe
+F:\Old\Files\Old files\sequential games - Additional\sequential games\bin\Debug\sequential games.pdb
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\sequential games.csprojResolveAssemblyReference.cache
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.ParametersValuesForm.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.ParametersSettingsForm.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.Report_Form.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.FunctionEditor.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.ParametersWeightsForm.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.Alternatives.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.DebugForm.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.ExtensiveFormGame.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.BimatrixGamesForm.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.NewButtonDialogForm.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.NewTreeForm.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.Properties.Resources.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.Settings.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.PositionInformation_Form.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\SequentialGames.Tree.resources
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\sequential games.csproj.GenerateResource.Cache
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\sequential games.exe
+F:\Old\Files\Old files\sequential games - Additional\sequential games\obj\x86\Debug\sequential games.pdb

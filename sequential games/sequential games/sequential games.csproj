@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9E040F2E-EF3F-4D54-ACA9-6B1205C3711F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SequentialGames</RootNamespace>
+    <AssemblyName>sequential games</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\SG.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>SequentialGames.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Code files\Game theory algorithms.cs" />
+    <Compile Include="Code files\Graphic interface algorithms.cs" />
+    <Compile Include="Code files\Program.cs" />
+    <Compile Include="Modelling\ParametersValuesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelling\ParametersValuesForm.Designer.cs">
+      <DependentUpon>ParametersValuesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelling\ParametersSettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelling\ParametersSettingsForm.Designer.cs">
+      <DependentUpon>ParametersSettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tree\Report_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tree\Report_Form.Designer.cs">
+      <DependentUpon>Report_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unused\FunctionEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unused\FunctionEditor.Designer.cs">
+      <DependentUpon>FunctionEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelling\ParametersWeightsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelling\ParametersWeightsForm.Designer.cs">
+      <DependentUpon>ParametersWeightsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unused\Alternatives.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unused\Alternatives.Designer.cs">
+      <DependentUpon>Alternatives.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unused\DebugForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unused\DebugForm.Designer.cs">
+      <DependentUpon>DebugForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unused\ExtensiveFormGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unused\ExtensiveFormGame.Designer.cs">
+      <DependentUpon>ExtensiveFormGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Position\BimatrixGamesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Position\BimatrixGamesForm.Designer.cs">
+      <DependentUpon>BimatrixGamesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unused\NewPositionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unused\NewPositionForm.Designer.cs">
+      <DependentUpon>NewPositionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tree\NewTreeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tree\NewTreeForm.Designer.cs">
+      <DependentUpon>NewTreeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tree\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tree\SettingsForm.Designer.cs">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Position\PositionInformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Position\PositionInformationForm.Designer.cs">
+      <DependentUpon>PositionInformationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tree\TreeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tree\TreeForm.Designer.cs">
+      <DependentUpon>TreeForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Modelling\ParametersValuesForm.resx">
+      <DependentUpon>ParametersValuesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelling\ParametersSettingsForm.resx">
+      <DependentUpon>ParametersSettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tree\Report_Form.resx">
+      <DependentUpon>Report_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unused\FunctionEditor.resx">
+      <DependentUpon>FunctionEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelling\ParametersWeightsForm.resx">
+      <DependentUpon>ParametersWeightsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unused\Alternatives.resx">
+      <DependentUpon>Alternatives.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unused\DebugForm.resx">
+      <DependentUpon>DebugForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unused\ExtensiveFormGame.resx">
+      <DependentUpon>ExtensiveFormGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Position\BimatrixGamesForm.resx">
+      <DependentUpon>BimatrixGamesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unused\NewPositionForm.resx">
+      <DependentUpon>NewPositionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tree\NewTreeForm.resx">
+      <DependentUpon>NewTreeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Tree\SettingsForm.resx">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Position\PositionInformationForm.resx">
+      <DependentUpon>PositionInformationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tree\TreeForm.resx">
+      <DependentUpon>TreeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue hand.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white hand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_zoom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white zoom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open_file_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\better_plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SG.png" />
+    <Content Include="Resources\SG.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
