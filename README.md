@@ -3,7 +3,7 @@ Software complex focused on modelling sequential games
 
 Field: Operations research -> Game Theory -> Sequential Games -> Extension of basic theory
 
-Purpose: design and analyze sequential behavioural models
+Purpose: design and analyze sequential behavioral models
 
 Progress: alpha version presented as bachelors thesis and successfully defended.
 
